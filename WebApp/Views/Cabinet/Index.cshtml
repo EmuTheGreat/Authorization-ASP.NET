@@ -1,0 +1,44 @@
+﻿@model Logic.Models.User
+
+@{
+    ViewData["Title"] = "Кабинет";
+}
+
+<h1 class="row justify-content-lg-start">@ViewData["Title"]</h1>
+<div class="col-lg-6">
+    <table class="table table-striped table-bordered table-dark" id="table">
+        <thead>
+            <tr>
+                <th scope="col">Поле</th>
+                <th scope="col">Название</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+
+        <tr class="table-active">
+            <td id="Name">FIO</td>
+            <td id="FIO">@Model.FIO</td>
+        </tr>
+
+        <tr class="table-active">
+            <td id="Name">Phone</td>
+            <td id="Phone">@Model.Phone</td>
+        </tr>
+
+        <tr class="table-active">
+            <td id="Name">Email</td>
+            <td id="Email">@Model.Email</td>
+        </tr>
+
+        <tr class="table-active">
+            <td id="Name">Last Login</td>
+            <td id="Last Login">@Model.LastLogin</td>
+        </tr>
+    </table>
+</div>
+
+
+
+<form class="form-inline" id="account" method="post" asp-controller="Cabinet" asp-action="Logout">
+    <button type="submit" class="btn btn btn-secondary">Выйти</button>
+</form>

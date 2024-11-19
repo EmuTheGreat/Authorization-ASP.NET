@@ -1,7 +1,4 @@
-﻿using AutoMapper;
-using Logic.Models.Interfaces;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authentication;
+﻿using Logic.Models.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApp.Controllers
@@ -20,7 +17,7 @@ namespace WebApp.Controllers
         }
 
         [HttpGet]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             var token = HttpContext.Request.Cookies["tasty-cookies"];
             if (token == null || !_jwtProvider.IsTokenValid(_configuration["JwtOptions:Key"], _configuration["JwtOptions:Issuer"], token))
@@ -28,12 +25,12 @@ namespace WebApp.Controllers
                 return RedirectToAction("Login", "Account");
             }
             var claims = User.Claims.ToList()[1];
-            var user = _accountManager.GetUserByEmail(claims.Value);
+            var user = await _accountManager.GetUserByEmail(claims.Value);
             return View(user);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Logout()
+        public IActionResult Logout()
         {
 
             Response.Cookies.Delete("tasty-cookies");

@@ -1,6 +1,4 @@
 ﻿using Logic.Models.Interfaces;
-using Logic.Models;
-using System.Security.Claims;
 
 namespace Logic.Models
 {
@@ -19,18 +17,18 @@ namespace Logic.Models
             _configuration = configuration;
         }
 
-        public User GetUserByEmail(string email)
+        public async Task<User> GetUserByEmail(string email)
         {
-            return _userRepository.GetByEmail(email);
+            return await _userRepository.GetByEmail(email);
         }
 
-        public async  Task<BaseResponse<ClaimsIdentity>> LoginAsync(User user)
+        public async  Task<BaseResponse> LoginAsync(User user)
         {
-            var userByPhone = _userRepository.GetByPhone(user.Phone);
+            var userByPhone = await _userRepository.GetByPhone(user.Phone);
             
             if (userByPhone is null)
             {
-                return new BaseResponse<ClaimsIdentity>
+                return new BaseResponse
                 {
                     StatusCode = 400,
                     Description = "Пользователя с таким номером не существует."
@@ -39,7 +37,7 @@ namespace Logic.Models
 
             if (!_passwordHasher.VerifyPassword(user.Password, userByPhone.Password))
             {
-                return new BaseResponse<ClaimsIdentity>
+                return new BaseResponse
                 {
                     StatusCode = 400,
                     Description = "Неверный пароль."
@@ -52,7 +50,7 @@ namespace Logic.Models
                 int.Parse(_configuration["JwtOptions:ExpiresHours"]));
 
             _userRepository.UpdateLastLoginTime(userByPhone);
-            return new BaseResponse<ClaimsIdentity>
+            return new BaseResponse
             {
                 StatusCode = 200,
                 Description = "Вы успешно вошгли.",
@@ -60,22 +58,22 @@ namespace Logic.Models
             };
         }
 
-        public async Task<BaseResponse<ClaimsIdentity>> RegisterAsync(User user)
+        public async Task<BaseResponse> RegisterAsync(User user)
         {
-            var userByEmail = _userRepository.GetByEmail(user.Email);
+            var userByEmail = await _userRepository.GetByEmail(user.Email);
             if (userByEmail is not null)
             {
-                return new BaseResponse<ClaimsIdentity>
+                return new BaseResponse
                 {
                     StatusCode = 400,
                     Description = "Пользователь с такой почтой уже существует."
                 };
             }
 
-            var userByPhone = _userRepository.GetByPhone(user.Phone);
+            var userByPhone = await _userRepository.GetByPhone(user.Phone);
             if (userByPhone is not null)
             {
-                return new BaseResponse<ClaimsIdentity>
+                return new BaseResponse
                 {
                     StatusCode = 400,
                     Description = "Пользователь с таким номером уже существует."
@@ -88,8 +86,9 @@ namespace Logic.Models
                 int.Parse(_configuration["JwtOptions:ExpiresHours"]));
 
             user.Password = _passwordHasher.Generate(user.Password);
-            _userRepository.Create(user);
-            return new BaseResponse<ClaimsIdentity>
+            await _userRepository.Create(user);
+
+            return new BaseResponse
             {
                 StatusCode = 200,
                 Description = "Регистрация успешна.",

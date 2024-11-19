@@ -1,6 +1,7 @@
 ﻿using Logic.Models;
 using Logic.Models.Interfaces;
 using Logic.DbContext;
+using Microsoft.EntityFrameworkCore;
 
 namespace Logic.Repository
 {
@@ -12,10 +13,10 @@ namespace Logic.Repository
             _dbContext = dbContext;
         }
 
-        public void Create(User user)
+        public async Task Create(User user)
         {
-            _dbContext.AddAsync(user);
-            _dbContext.SaveChangesAsync();
+            await _dbContext.AddAsync(user);
+            await _dbContext.SaveChangesAsync();
         }
 
         public IEnumerable<User> GetAll()
@@ -23,23 +24,23 @@ namespace Logic.Repository
             return _dbContext.Users;
         }
 
-        public User GetByEmail(string email)
+        public async Task<User> GetByEmail(string email)
         {
-            return _dbContext.Users.FirstOrDefault(user => user.Email == email);
+            return await _dbContext.Users.FirstOrDefaultAsync(user => user.Email == email);
         }
 
-        public User GetByPhone(string phone)
+        public async Task<User> GetByPhone(string phone)
         {
-            return _dbContext.Users.FirstOrDefault(user => user.Phone == phone);
+            return await _dbContext.Users.FirstOrDefaultAsync(user => user.Phone == phone);
         }
 
-        public void UpdateLastLoginTime(User user)
+        public async Task UpdateLastLoginTime(User user)
         {
-            var userToUpdate = _dbContext.Users.FirstOrDefault(x => x.Email == user.Email);
-            if (userToUpdate is not null) 
-            { 
+            var userToUpdate = await _dbContext.Users.FirstOrDefaultAsync(x => x.Email == user.Email);
+            if (userToUpdate is not null)
+            {
                 userToUpdate.LastLogin = DateTime.Now;
-                _dbContext.SaveChangesAsync();
+                await _dbContext.SaveChangesAsync();
             }
         }
     }

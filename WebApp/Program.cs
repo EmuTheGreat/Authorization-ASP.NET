@@ -4,7 +4,6 @@ using Logic.Models;
 using Logic.Repository;
 using Microsoft.EntityFrameworkCore;
 using Logic.Infrastructure;
-using Microsoft.AspNetCore.Identity;
 using API.ApiExtensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -48,7 +47,6 @@ if (!app.Environment.IsDevelopment())
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseSession();
-//app.UseMiddleware<TokenMiddleware>();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

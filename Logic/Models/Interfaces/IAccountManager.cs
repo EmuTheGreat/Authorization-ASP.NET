@@ -1,12 +1,9 @@
-﻿using Microsoft.AspNetCore.Identity.Data;
-using System.Security.Claims;
-
-namespace Logic.Models.Interfaces
+﻿namespace Logic.Models.Interfaces
 {
     public interface IAccountManager
     {
-        public Task<BaseResponse<ClaimsIdentity>> RegisterAsync(User user);
-        public Task<BaseResponse<ClaimsIdentity>> LoginAsync(User user);
-        public User GetUserByEmail(string email);
+        public Task<BaseResponse> RegisterAsync(User user);
+        public Task<BaseResponse> LoginAsync(User user);
+        public Task<User> GetUserByEmail(string email);
     }
 }

@@ -1,130 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\projects\\test-back\\test-back\\",
+  "WorkspaceRootPath": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\api\\attributes\\phonevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\attributes\\phonevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\controllers\\cabinetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\cabinetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\api\\attributes\\emailvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\attributes\\emailvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\cabinet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\cabinet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|e:\\projects\\test-back\\test-back\\api\\areas\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\api\\areas\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\areas\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|e:\\projects\\test-back\\test-back\\api\\apiextensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\api\\apiextensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\apiextensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\models\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\models\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|e:\\projects\\test-back\\test-back\\webapp\\profile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\profile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|e:\\projects\\test-back\\test-back\\api\\models\\dto\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\models\\dto\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\models\\interfaces\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\interfaces\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|e:\\projects\\test-back\\test-back\\api\\models\\dto\\response\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\models\\dto\\response\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|e:\\projects\\test-back\\test-back\\api\\models\\dto\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\models\\dto\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|e:\\projects\\test-back\\test-back\\api\\models\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\models\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|e:\\projects\\test-back\\test-back\\logic\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\interfaces\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\interfaces\\iaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\webapp\\controllers\\cabinetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\cabinetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\webapp\\profile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\profile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF01698B-5142-4BDA-9BA9-F7F1CD3D299C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\logic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7C90B-1864-492B-A6CF-6AA5FEB2B4D1}|Logic\\Logic.csproj|solutionrelative:logic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|c:\\users\\thegr\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26D4EFF-A759-4A8D-B43D-AFBDC297CA2F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,376 +114,302 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Cabinet\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Cabinet\\Index.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Cabinet\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Cabinet\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T09:27:13.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Models\\Interfaces\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "Logic\\Models\\Interfaces\\IJwtProvider.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Models\\Interfaces\\IJwtProvider.cs",
-              "RelativeToolTip": "Logic\\Models\\Interfaces\\IJwtProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:42:47.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CabinetController.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Controllers\\CabinetController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\CabinetController.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Controllers\\CabinetController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\CabinetController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:38:21.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwEMAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:53:34.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountApiController.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\API\\Areas\\Controllers\\AccountApiController.cs",
-              "RelativeDocumentMoniker": "API\\Areas\\Controllers\\AccountApiController.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\API\\Areas\\Controllers\\AccountApiController.cs",
-              "RelativeToolTip": "API\\Areas\\Controllers\\AccountApiController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowEkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T08:57:45.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:36:44.222Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Infrastructure\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "Logic\\Infrastructure\\JwtProvider.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Infrastructure\\JwtProvider.cs",
-              "RelativeToolTip": "Logic\\Infrastructure\\JwtProvider.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBoAAAAiAAAA",
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\Interfaces\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IJwtProvider.cs",
+              "RelativeToolTip": "Logic\\Models\\Interfaces\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:59:49.474Z"
+              "WhenOpened": "2024-11-19T15:21:20.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApiExtensions.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\API\\ApiExtensions\\ApiExtensions.cs",
-              "RelativeDocumentMoniker": "API\\ApiExtensions\\ApiExtensions.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\API\\ApiExtensions\\ApiExtensions.cs",
-              "RelativeToolTip": "API\\ApiExtensions\\ApiExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Title": "IAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IAccountManager.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\Interfaces\\IAccountManager.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IAccountManager.cs",
+              "RelativeToolTip": "Logic\\Models\\Interfaces\\IAccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:12:44.322Z"
+              "WhenOpened": "2024-11-19T15:21:16.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\appsettings.json",
-              "RelativeToolTip": "WebApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-08T12:17:54.996Z"
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Logic\\Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "Logic\\Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:21:02.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Logic\\Infrastructure\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "Logic\\Infrastructure\\JwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:20:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Logic\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Logic\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:20:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\ApiExtensions\\ApiExtensions.cs",
+              "RelativeDocumentMoniker": "API\\ApiExtensions\\ApiExtensions.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\ApiExtensions\\ApiExtensions.cs",
+              "RelativeToolTip": "API\\ApiExtensions\\ApiExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:26:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountApiController.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Areas\\Controllers\\AccountApiController.cs",
+              "RelativeDocumentMoniker": "API\\Areas\\Controllers\\AccountApiController.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Areas\\Controllers\\AccountApiController.cs",
+              "RelativeToolTip": "API\\Areas\\Controllers\\AccountApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:26:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Attributes\\EmailValidationAttribute.cs",
+              "RelativeDocumentMoniker": "API\\Attributes\\EmailValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Attributes\\EmailValidationAttribute.cs",
+              "RelativeToolTip": "API\\Attributes\\EmailValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:29:36.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\Error.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Pages\\Error.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:49:35.698Z",
+              "Title": "PhoneValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Attributes\\PhoneValidationAttribute.cs",
+              "RelativeDocumentMoniker": "API\\Attributes\\PhoneValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Attributes\\PhoneValidationAttribute.cs",
+              "RelativeToolTip": "API\\Attributes\\PhoneValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:29:40.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Logic\\Models\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:21:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Logic\\Models\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:21:22.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Program.cs",
-              "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:05:30.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "AccountManager.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Models\\AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\AccountManager.cs",
               "RelativeDocumentMoniker": "Logic\\Models\\AccountManager.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Models\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\AccountManager.cs",
               "RelativeToolTip": "Logic\\Models\\AccountManager.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAnwDAAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:12:34.772Z"
+              "WhenOpened": "2024-11-19T15:21:25.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:34:02.731Z"
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\BaseResponse.cs",
+              "RelativeToolTip": "Logic\\Models\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:30:00.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\_ViewStart.cshtml",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Models\\User.cs",
+              "RelativeToolTip": "Logic\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:04:51.821Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:30:01.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:19:18.907Z"
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Logic\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Logic\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:21:48.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\Register.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:25:17.202Z"
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:37:42.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:21:32.424Z"
+              "Title": "CabinetController.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Controllers\\CabinetController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CabinetController.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Controllers\\CabinetController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CabinetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:37:51.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:06:19.75Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:38:38.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T07:50:40.238Z"
+              "WhenOpened": "2024-11-19T15:41:51.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Profile\\UserProfile.cs",
+              "RelativeDocumentMoniker": "WebApp\\Profile\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Profile\\UserProfile.cs",
+              "RelativeToolTip": "WebApp\\Profile\\UserProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T08:04:57.821Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:38:48.318Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "BaseResponse.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Models\\BaseResponse.cs",
-              "RelativeDocumentMoniker": "Logic\\Models\\BaseResponse.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Models\\BaseResponse.cs",
-              "RelativeToolTip": "Logic\\Models\\BaseResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:55:22.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Response\\UserResponse.cs",
-              "RelativeDocumentMoniker": "API\\Models\\DTO\\Response\\UserResponse.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Response\\UserResponse.cs",
-              "RelativeToolTip": "API\\Models\\DTO\\Response\\UserResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T20:10:49.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Logic\\Models\\User.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Models\\User.cs",
-              "RelativeToolTip": "Logic\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:49:52.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Logic\\Repository\\UserRepository.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Logic\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T08:58:31.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Response\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "API\\Models\\DTO\\Response\\ErrorResponse.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Response\\ErrorResponse.cs",
-              "RelativeToolTip": "API\\Models\\DTO\\Response\\ErrorResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T20:10:56.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IAccountManager.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Models\\Interfaces\\IAccountManager.cs",
-              "RelativeDocumentMoniker": "Logic\\Models\\Interfaces\\IAccountManager.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Models\\Interfaces\\IAccountManager.cs",
-              "RelativeToolTip": "Logic\\Models\\Interfaces\\IAccountManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T20:13:52.532Z"
+              "WhenOpened": "2024-11-19T15:37:40.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\WebApp\\Profile\\UserProfile.cs",
-              "RelativeDocumentMoniker": "WebApp\\Profile\\UserProfile.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\WebApp\\Profile\\UserProfile.cs",
-              "RelativeToolTip": "WebApp\\Profile\\UserProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Program.cs",
+              "RelativeDocumentMoniker": "Logic\\Program.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\Logic\\Program.cs",
+              "RelativeToolTip": "Logic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T20:16:04.964Z"
+              "WhenOpened": "2024-11-19T15:37:36.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Request\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "API\\Models\\DTO\\Request\\RegisterRequest.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Request\\RegisterRequest.cs",
-              "RelativeToolTip": "API\\Models\\DTO\\Request\\RegisterRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABVAAAA",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\thegr\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:47:29.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Request\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "API\\Models\\DTO\\Request\\LoginRequest.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\API\\Models\\DTO\\Request\\LoginRequest.cs",
-              "RelativeToolTip": "API\\Models\\DTO\\Request\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:45:30.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\Infrastructure\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Logic\\Infrastructure\\PasswordHasher.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\Infrastructure\\PasswordHasher.cs",
-              "RelativeToolTip": "Logic\\Infrastructure\\PasswordHasher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:09:47.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\projects\\test-back\\test-back\\Logic\\DbContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Logic\\DbContext\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\projects\\test-back\\test-back\\Logic\\DbContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Logic\\DbContext\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:00:16.451Z"
+              "WhenOpened": "2024-11-19T15:32:02.606Z",
+              "EditorCaption": ""
             }
           ]
         },

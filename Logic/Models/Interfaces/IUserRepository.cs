@@ -2,10 +2,10 @@
 {
     public interface IUserRepository
     {
-        public void Create(User user);
-        public void UpdateLastLoginTime(User user);
+        public Task Create(User user);
+        public Task UpdateLastLoginTime(User user);
         public IEnumerable<User> GetAll();
-        public User GetByEmail(string email);
-        public User GetByPhone(string phone);
+        public Task<User> GetByEmail(string email);
+        public Task<User> GetByPhone(string phone);
     }
 }

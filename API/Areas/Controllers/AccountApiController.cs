@@ -3,12 +3,9 @@ using Logic.Models.Interfaces;
 using API.Models.DTO.Request;
 using API.Models.DTO.Response;
 using Microsoft.AspNetCore.Mvc;
-using System.Security.Claims;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authentication;
 
 
 namespace API.Areas.Controllers
@@ -69,7 +66,7 @@ namespace API.Areas.Controllers
 
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         [HttpPost("logout")]
-        public async Task<IActionResult> Logout()
+        public IActionResult Logout()
         {
             Response.Cookies.Delete("tasty-cookies");
             return Ok();
@@ -80,7 +77,7 @@ namespace API.Areas.Controllers
         public async Task<IActionResult> GetMyInfo()
         {
             var email = User.Claims.ToList()[1].Value;
-            var user = _accountManager.GetUserByEmail(email);
+            var user = await _accountManager.GetUserByEmail(email);
             var userResponse = _mapper.Map<UserResponse>(user);
             return Ok(userResponse);
         }
